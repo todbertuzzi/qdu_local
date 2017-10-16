@@ -1,0 +1,24 @@
+
+dump.sql
+# Keep these files out of the repo
+/themes/twenty*
+/upgrade
+/uploads
+/themes/tb_sage_9
+/themes/tb_sage_8
+/themes/node_modules
+/themes/s_test/bower_components
+/themes/s_test/node_modules
+/themes/s_test/npm-debug.log
+/themes/s_test/fl-builder
+vendor
+/wflogs
+/sitemap.*
+/languages
+*.sql.gz
+*.sql
+# Hidden files
+*.DS_Store
+*Thumbs.db
+*.sass-cache*
+*~imageoptim*
